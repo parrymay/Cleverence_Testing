@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qanqop8JbrsBKzO7Lf/MHcUc3Ar/L/6tWMlko9ZN7AHBpUpqfyDku7hVr07tMEGZyUloqO633OqQQPi8CYpt5g==",
+  "dgSpecHash": "o0KB0+ADrZ0uALW/x6xYxyrbjR+MJRk+UlnWVYXJCjwO3gKiORXhicUhEAw1XXKMp6eTlJP29Mc40o8VCuAYqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alks\\Desktop\\Project\\C#\\CleverenceTest\\Count.Test\\Count.Test.csproj",
+  "projectFilePath": "C:\\Users\\Alks\\Desktop\\Project\\C#\\CleverenceTest\\Count.Test\\Task_1.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alks\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Alks\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

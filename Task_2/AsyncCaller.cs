@@ -3,7 +3,7 @@
     public class AsyncCaller
     {
         private EventHandler EventHandler { get; set; }
-        private static readonly CancellationTokenSource cts = new CancellationTokenSource();
+        private static readonly CancellationTokenSource cts = new ();
         public AsyncCaller(EventHandler eventHandler)
         {
             EventHandler = eventHandler;

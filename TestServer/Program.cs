@@ -1,4 +1,4 @@
-﻿using CleverenceTest;
+﻿using Task_1;
 using Task_2;
 
 //Задание 1
@@ -49,13 +49,11 @@ for (int i = 0; i < 10; i++)
 // Если timeout в методе Invoke < Thread.Sleep, делегат прерывается
 // В случае работы без прерывания, completedOk = true и выводится сообщение "Hello!"
 
-EventHandler h = new EventHandler(TestMethod);
+EventHandler h = new EventHandler((object? sleep, EventArgs eventArgs) =>
+{
+    Thread.Sleep(1000);
+    Console.WriteLine("Hello");
+});
 AsyncCaller ac = new(h);
 bool completedOk = ac.Invoke(5000, null, EventArgs.Empty);
 Console.WriteLine(completedOk);
-
-void TestMethod(object? timeout, EventArgs eventArgs)
-{
-    Thread.Sleep(2000);
-    Console.WriteLine("Hello!");
-}

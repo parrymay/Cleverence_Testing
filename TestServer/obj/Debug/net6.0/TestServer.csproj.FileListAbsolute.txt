@@ -3,6 +3,10 @@ C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\Test
 C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\TestServer.runtimeconfig.json
 C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\TestServer.dll
 C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\TestServer.pdb
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\Task_1.dll
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\Task_2.dll
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\Task_1.pdb
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\Task_2.pdb
 C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\obj\Debug\net6.0\TestServer.csproj.AssemblyReference.cache
 C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\obj\Debug\net6.0\TestServer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\obj\Debug\net6.0\TestServer.AssemblyInfoInputs.cache
@@ -14,7 +18,3 @@ C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\obj\Debug\net6.0\refi
 C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\obj\Debug\net6.0\TestServer.pdb
 C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\obj\Debug\net6.0\TestServer.genruntimeconfig.cache
 C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\obj\Debug\net6.0\ref\TestServer.dll
-C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\Task_1.dll
-C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\Task_2.dll
-C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\Task_1.pdb
-C:\Users\Alks\Desktop\Project\C#\CleverenceTest\TestServer\bin\Debug\net6.0\Task_2.pdb

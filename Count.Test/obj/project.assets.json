@@ -5998,9 +5998,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alks\\Desktop\\Project\\C#\\CleverenceTest\\Count.Test\\Count.Test.csproj",
-      "projectName": "Count.Test",
-      "projectPath": "C:\\Users\\Alks\\Desktop\\Project\\C#\\CleverenceTest\\Count.Test\\Count.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Alks\\Desktop\\Project\\C#\\CleverenceTest\\Count.Test\\Task_1.Test.csproj",
+      "projectName": "Task_1.Test",
+      "projectPath": "C:\\Users\\Alks\\Desktop\\Project\\C#\\CleverenceTest\\Count.Test\\Task_1.Test.csproj",
       "packagesPath": "C:\\Users\\Alks\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alks\\Desktop\\Project\\C#\\CleverenceTest\\Count.Test\\obj\\",
       "projectStyle": "PackageReference",
