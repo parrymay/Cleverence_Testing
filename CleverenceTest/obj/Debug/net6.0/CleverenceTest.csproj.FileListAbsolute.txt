@@ -1,0 +1,12 @@
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\bin\Debug\net6.0\CleverenceTest.deps.json
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\bin\Debug\net6.0\CleverenceTest.dll
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\bin\Debug\net6.0\CleverenceTest.pdb
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\obj\Debug\net6.0\CleverenceTest.csproj.AssemblyReference.cache
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\obj\Debug\net6.0\CleverenceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\obj\Debug\net6.0\CleverenceTest.AssemblyInfoInputs.cache
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\obj\Debug\net6.0\CleverenceTest.AssemblyInfo.cs
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\obj\Debug\net6.0\CleverenceTest.csproj.CoreCompileInputs.cache
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\obj\Debug\net6.0\CleverenceTest.dll
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\obj\Debug\net6.0\refint\CleverenceTest.dll
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\obj\Debug\net6.0\CleverenceTest.pdb
+C:\Users\Alks\Desktop\Project\C#\CleverenceTest\CleverenceTest\obj\Debug\net6.0\ref\CleverenceTest.dll
